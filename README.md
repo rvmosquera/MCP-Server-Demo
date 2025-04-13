@@ -19,3 +19,15 @@ cd mcp-server-demo
 # Start the server using UV
 uv start
 ```
+
+## Test Screenshots
+
+Below are screenshots showcasing the results of running tests on the MCP server.
+
+### Test Results
+
+#### Screenshot 1: Prompt 1
+![Server Running](images/img01.png)
+
+#### Screenshot 2: Prompt 2
+![Successful Connection](images/img02.png)
